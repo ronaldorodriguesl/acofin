@@ -1,15 +1,5 @@
-# Bootstrap starter
+Com base nas telas que foram desenhadas na Fase 2 (Prototyping), você deve recria-lás utilizando HTML, CSS e Bootstrap.
 
-Include [Bootstrap](https://getbootstrap.com) CSS and JS via the [jsDelivr CDN](https://www.jsdelivr.com/package/npm/bootstrap).
+E agora que você criou sua conta na rede social dos desenvolvedores, o GitHub, você também deve subir o seu projeto no GIT com os comandos apresentados no conteúdo.
 
-## Edit in browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/starter?file=index.html)
-
-## Download
-
-```sh
-git clone https://github.com/twbs/examples.git
-cd examples/starter/
-open index.html
-```
+Assista novamente os vídeos do Capítulo 12, crie o seu repositório e envie os arquivos do projeto das telas do Fintech.
